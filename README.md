@@ -1,7 +1,5 @@
 ## Machine Learning
 
-![Python](https://img.shields.io/badge/Python-Django%20%7C%20NLP%20%7C%20AI-green?logo=python)
-![ML](https://img.shields.io/badge/ML-Algorithms%20%7C%20Time%20Series%20%7C%20XAI-orange?logo=scikit-learn)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
